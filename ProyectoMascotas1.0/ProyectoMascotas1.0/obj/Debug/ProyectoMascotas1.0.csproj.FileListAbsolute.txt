@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\ProyectoMascotas1.0\ProyectoMascotas1.0\bin\Debug\ProyectoMascotas1.0.exe.config
+C:\Users\Usuario\source\repos\ProyectoMascotas1.0\ProyectoMascotas1.0\bin\Debug\ProyectoMascotas1.0.exe
+C:\Users\Usuario\source\repos\ProyectoMascotas1.0\ProyectoMascotas1.0\bin\Debug\ProyectoMascotas1.0.pdb
+C:\Users\Usuario\source\repos\ProyectoMascotas1.0\ProyectoMascotas1.0\obj\Debug\ProyectoMascotas1.0.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ProyectoMascotas1.0\ProyectoMascotas1.0\obj\Debug\ProyectoMascotas1._0.Form1.resources
+C:\Users\Usuario\source\repos\ProyectoMascotas1.0\ProyectoMascotas1.0\obj\Debug\ProyectoMascotas1._0.Properties.Resources.resources
+C:\Users\Usuario\source\repos\ProyectoMascotas1.0\ProyectoMascotas1.0\obj\Debug\ProyectoMascotas1.0.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ProyectoMascotas1.0\ProyectoMascotas1.0\obj\Debug\ProyectoMascotas1.0.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ProyectoMascotas1.0\ProyectoMascotas1.0\obj\Debug\ProyectoMascotas1.0.exe
+C:\Users\Usuario\source\repos\ProyectoMascotas1.0\ProyectoMascotas1.0\obj\Debug\ProyectoMascotas1.0.pdb
+C:\Users\Usuario\source\repos\ProyectoMascotas1.0\ProyectoMascotas1.0\obj\Debug\ProyectoMascotas1._0.Form2.resources
+C:\Users\Usuario\source\repos\ProyectoMascotas1.0\ProyectoMascotas1.0\obj\Debug\ProyectoMascotas1._0.FormAgenda.resources
+C:\Users\Usuario\source\repos\ProyectoMascotas1.0\ProyectoMascotas1.0\obj\Debug\ProyectoMascotas1._0.FormGaleria.resources
+C:\Users\Usuario\source\repos\ProyectoMascotas1.0\ProyectoMascotas1.0\obj\Debug\ProyectoMascotas1._0.FormGuia.resources
+C:\Users\Usuario\source\repos\ProyectoMascotas1.0\ProyectoMascotas1.0\obj\Debug\ProyectoMascotas1._0.FormInicio.resources
+C:\Users\Usuario\source\repos\ProyectoMascotas1.0\ProyectoMascotas1.0\obj\Debug\ProyectoMascotas1._0.FormAjustes.resources
